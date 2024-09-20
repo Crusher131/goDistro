@@ -1,4 +1,4 @@
-module github.com/Hayao0819/go-distro
+module github.com/Crusher131/goDistro
 
 go 1.20
 
